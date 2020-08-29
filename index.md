@@ -1,27 +1,17 @@
 ## 个人信息
-#### 姓名：
-#### 地区：
-#### 语言：
-#### 邮箱：
-#### 
-### Markdown
+#### 姓名：  
+#### 地区：中国大陆  
+#### 语言：中文（简体）
+#### 邮箱：weihuaichuan@126.com 
+#### QQ：997618004
+### 其他
+
 
 
 
 ```markdown
-我我我
+没啥了
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
